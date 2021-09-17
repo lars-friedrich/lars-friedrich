@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Lars 👋
+### 📫 You can reach me at lars@friedrich.tel
+### 🌱 I’m working with C#, TypeScript, Java and PHP
 
 <!--
 **larsdekr/larsdekr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
