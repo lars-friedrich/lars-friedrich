@@ -1,9 +1,15 @@
-### Hi there, I'm Lars 👋
-### 📫 You can reach me at lars@friedrich.tel
-### 🌱 I’m working with C#, TypeScript, Java and PHP
+<center> <h2>Hi 👋, I am Paul Jongmans</h2> </center>
+
+- 🔭 Hi there, I'm `Lars` 👋
+- 🌱 I’m working with `C#, TypeScript, Java and PHP`
+- 📫 You can reach me at lars@friedrich.tel
 
 <!--
 **larsdekr/larsdekr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there, I'm Lars 👋
+### 📫 You can reach me at lars@friedrich.tel
+### 🌱 I’m working with C#, TypeScript, Java and PHP
 
 Here are some ideas to get you started:
 
