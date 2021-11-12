@@ -1,6 +1,5 @@
-<center> <h2>Hi 👋, I am Paul Jongmans</h2> </center>
+<center> <h2>Hi 👋, I am Lars Friedrich</h2> </center>
 
-- 🔭 Hi there, I'm `Lars` 👋
 - 🌱 I’m working with `C#, TypeScript, Java and PHP`
 - 📫 You can reach me at lars@friedrich.tel
 
