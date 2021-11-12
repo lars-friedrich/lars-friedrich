@@ -1,7 +1,7 @@
 <center> <h2>Hi 👋, I am Lars Friedrich</h2> </center>
 
 - 🌱 I’m working with `C#, TypeScript, Java and PHP`
-- 📫 You can reach me at lars@friedrich.tel
+- 📫 You can reach me at `lars@friedrich.tel`
 
 <!--
 **larsdekr/larsdekr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
