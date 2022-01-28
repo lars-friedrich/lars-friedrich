@@ -1,23 +1,24 @@
-<center> <h2>Hi 👋, I am Lars Friedrich</h2> </center>
 
-- 🌱 I’m working with `C#, TypeScript, Java and PHP`
-- 📫 You can reach me at `lars@friedrich.tel`
+# Hi, I'm Lars! 👋
 
-<!--
-**larsdekr/larsdekr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Hi there, I'm Lars 👋
-### 📫 You can reach me at lars@friedrich.tel
-### 🌱 I’m working with C#, TypeScript, Java and PHP
+## 🚀 About Me
+I'm a developer and like to code with the music on 100%.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/larsdek)
+
+
+# Ongoing things 
+
+👩‍💻 I'm currently working on a school project called [@hydropoc](https://www.github.com/hydropoc)
+
+📫 You can send me an e-mail to `lars@lfriedrich.com`
+
+⚡️ I have some cool side projects going on.
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, PHP, TypeScript, Java, C#
+
