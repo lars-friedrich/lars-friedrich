@@ -22,4 +22,4 @@ I'm a developer and like to code with the music on 100%.
 ## 🛠 Skills
 Javascript, HTML, CSS, PHP, TypeScript, Java, C#
 
-https://github-readme-stats.vercel.app/api?username=larsdekr&show_icons=true&theme=radical
+[![graph](https://github-readme-stats.vercel.app/api?username=larsdekr&show_icons=true&theme=radical)](https://github.com/larsdekr)
