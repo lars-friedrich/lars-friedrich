@@ -14,7 +14,7 @@ I'm a developer and like to code with the music on 100%.
 
 👩‍💻 I'm currently working on a school project called [@hydropoc](https://www.github.com/hydropoc)
 
-📫 You can send me an e-mail to `lars@lfriedrich.com`
+📫 You can send me an e-mail to `lars@fibranode.net`
 
 ⚡️ I have some cool side projects going on.
 
