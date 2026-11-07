@@ -6,4 +6,4 @@ I’m the owner and founder of **[fibranode](https://fibranode.com)** and would 
 
 <!--I lead some projects like **[@fibranode](https://github.com/fibranode)** in my free time. -->
 
-**@:** [`website`](https://fibranode.com) [`linkedin`](https://www.linkedin.com/in/lafr/) 
+**@:** [`linkedin`](https://www.linkedin.com/in/lafr/) 
